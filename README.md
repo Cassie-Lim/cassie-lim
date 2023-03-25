@@ -42,5 +42,5 @@ Here are some ideas to get you started:
   - If you are students in UCB taking cs189/cs182 and looking forward to study in group, pls reach out to me!
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
-Reach me at the email in my profile! 
+Reach me at the email in my profile! For friends from China, you can also contact me through linmengying20@mails.ucas.ac.cn :D. 
 
