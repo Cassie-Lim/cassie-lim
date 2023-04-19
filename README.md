@@ -19,28 +19,15 @@ Here are some ideas to get you started:
 - 🎓 3rd year undergraduate in University of Chinese Academy of Sciences, currently an exchange student in UC Berkeley
 - :cherry_blossom: Interested in CV, robotics...
 - 🌐 You can access all my open-source projects here on Github
-- :dancer: Crazy over dancing!!
+- :dancer: Crazy over dancing
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
-- 🔨 I'm currently...
-
-  ```html
-  - Supervised by an extremely hilarious professor back in UCAS!
-  - Working on an interesting proj in UCB.
-  ```
-
 - 🎯 In the near future, I hope to...
-  - Find a summer research I am really into
-  - Meet with some of my old friends who are not in China:cry:
-  - Stay happy:laughing:
+  - 🤔
 
 - 🤞One day I hope to...
-  - Work hard & play hard.
+  - Have a lovely job. Work hard & play hard.
   - Go backpacking to some coool places!
-  - Be really good at dancing.
-- 🤔 List of issues I need help with:
-  - If you are students in UCB taking cs189/cs182 and looking forward to study in group, pls reach out to me!
+  - Be really good at dancing & basketball :D!
 
-## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
-Reach me at the email in my profile! For friends from China, you can also contact me through linmengying20@mails.ucas.ac.cn :D. 
 
