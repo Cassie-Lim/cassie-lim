@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-As a start, I've made {{ COMMITS }} commits, created {{ REPOSITORIES }} repos, contributed to {{ REPOSITORIES_CONTRIBUTED_TO }} repos, and have made {{ PULL_REQUESTS }} pull requests.
-
-{{ LANGUAGE_TEMPLATE_START:max=5 }}{{LANGUAGE_NAME}} {{ LANGUAGE_TEMPLATE_END }}
-
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🎓 3rd year undergraduate in University of Chinese Academy of Sciences, currently an exchange student in UC Berkeley
 - :cherry_blossom: Interested in CV, robotics...
