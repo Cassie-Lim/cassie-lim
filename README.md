@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🎓 3rd year undergraduate in University of Chinese Academy of Sciences, currently an exchange student in UC Berkeley
-- :cherry_blossom: Interested in CV, robotics...
+- 🎓 4th year undergraduate in University of Chinese Academy of Sciences, currently doing summer research at Stanford.
+- :cherry_blossom: Interested in CV, robotics, RL...
 - 🌐 You can access all my open-source projects here on Github
 - :dancer: Crazy over dancing
 
