@@ -17,17 +17,18 @@ Here are some ideas to get you started:
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🎓 upcoming 4th year undergraduate in University of Chinese Academy of Sciences.
-- :cherry_blossom: Interested in CV, robotics, human-centered AI...
+- :cherry_blossom: Interested in CV, robotics, Reinforcement learning, human-centered AI...
 - 🌐 You can access all my open-source projects here on Github
 - :dancer: Crazy over dancing
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🎯 In the near future, I hope to...
-  - 🤔
+  - Be more extraverted?🤔
 
 - 🤞One day I hope to...
-  - Have a lovely job. Work hard & play hard.
-  - Go backpacking to some coool places!
-  - Be really good at dancing & basketball :D!
+  - Be an enthusiatic researcher! Work hard & play hard.
+  - Help younger generations on their development. (It's really cool to think about how you can have a positive effect on others!!)
+  - Travel to somewhere I am completely "isolated". (Just to try out what is going to happen when I am purely out of connection.)
+  - Be proficient at dancing & basketball :D!
 
 
