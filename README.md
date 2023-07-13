@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🎓 4th year undergraduate in University of Chinese Academy of Sciences.
+- 🎓 upcoming 4th year undergraduate in University of Chinese Academy of Sciences.
 - :cherry_blossom: Interested in CV, robotics, human-centered AI...
 - 🌐 You can access all my open-source projects here on Github
 - :dancer: Crazy over dancing
