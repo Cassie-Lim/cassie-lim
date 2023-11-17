@@ -16,13 +16,16 @@ Here are some ideas to get you started:
 -->
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- :cherry_blossom: Interested in CV, robotics, Reinforcement learning, human-centered AI... (I was told I should be more "focused" but I simply cannot say no to all those interesting topics.🥲)
+- :cherry_blossom: Interested in robotics, human-centered AI， CV... (I was told I should be more "focused" but I simply cannot say no to all those interesting topics.🥲)
 - 🌐 You can access all my open-source projects here on Github
 - :dancer: Crazy over dancing
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
-- 🎯 In the near future, I hope to...
-  - Be more extraverted?🤔
+- 🎯 I’m currently working on ...
+  - Multimodality LLM x RL/IL
+  - Practice dancing every day?🤔
+  - Develop a game with Unity :)
+    
 
 - 🤞One day I hope to...
   - Be an enthusiatic researcher! Work hard & play hard.
