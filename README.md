@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- :cherry_blossom: Interested in robotics, human-centered AI， CV... (I was told I should be more "focused" but I simply cannot say no to all those interesting topics.🥲)
+- :cherry_blossom: Interested in robotics (especially the planning part), human-centered AI， CV... 
 - 🌐 You can access all my open-source projects here on Github
 - :dancer: Crazy over dancing
 
