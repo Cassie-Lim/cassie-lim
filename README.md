@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🎯 I’m currently working on ...
-  - Multimodality LLM x RL/IL
+  - Enbodied AI + LLM
   - Practice dancing every day?🤔
   - Develop a game with Unity :)
     
