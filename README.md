@@ -65,4 +65,6 @@ Feel free to DM me via email!
   </div>
 </p>
 
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=tyzHnZ5BZUQOxYMLMQIgwmJYnJwrHXPFNDaQ5GIkqPM&cl=ffffff&w=a"></script>
+
 ![](https://komarev.com/ghpvc/?username=Cassie-Lim&color=yellow)
