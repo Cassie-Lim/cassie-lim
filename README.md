@@ -23,15 +23,18 @@ Here are some ideas to get you started:
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🎯 I’m currently working on ...
-  - Indoor navigation + Active Mapping🤖
+  - Generalizable representation for robotics🤖
   - Choragraphy🤔
-  - Trying out all local bakeries🥯
-  - Learning skateboard🛹
+  - Trying out all local bakeries & cafes🥯
+  - Learning boxing🥊
     
 
 - 🤞One day I hope to...
-  - Be an enthusiastic researcher! Work hard & play hard.
-  - Help the younger in their personal growth. (It's really cool to think about how you can influence other people for the better!)
-  - Travel to somewhere I am completely "isolated". (Only to see what happens when I am completely disconnected.)
+  - Enthusiastic about my work! Work hard & play hard.
+  - Travel to somewhere I am completely "isolated".
   - Be proficient at dancing & basketball :D!
-
+  
+## For UCAS students insterested in studying abroad 🐱
+Feel free to DM me via email!
+📧 linmengying20@mails.ucas.ac.cn
+![](https://komarev.com/ghpvc/?username=Cassie-Lim&color=yellow)
