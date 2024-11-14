@@ -66,7 +66,7 @@ Feel free to DM me via email!
 </p>
 
 <div align="center">
-  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=tyzHnZ5BZUQOxYMLMQIgwmJYnJwrHXPFNDaQ5GIkqPM&cl=ffffff&w=a"></script>
+  <a href="https://clustrmaps.com/site/1c27g"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=tyzHnZ5BZUQOxYMLMQIgwmJYnJwrHXPFNDaQ5GIkqPM&cl=ffffff" /></a>
 </div> 
 
 ![](https://komarev.com/ghpvc/?username=Cassie-Lim&color=yellow)
