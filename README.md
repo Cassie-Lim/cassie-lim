@@ -49,7 +49,7 @@ Feel free to DM me via email!
 <a href="https://www.linkedin.com/in/mlin365/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="[https://instagram.com/utkarsh_champ](https://www.instagram.com/cassie_lin0910/)" target="_blank">
+<a href="https://www.instagram.com/cassie_lin0910/" target="_blank">
 <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 <a href="https://space.bilibili.com/606495876" target="_blank">
